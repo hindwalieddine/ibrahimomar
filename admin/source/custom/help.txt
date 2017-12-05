@@ -1,0 +1,2 @@
+place here the custom pages in index 
+automaticaly will be shown instead of the default page
